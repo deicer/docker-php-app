@@ -1,3 +1,4 @@
-/data
+/vendor
+/docker/data
 /db_data
 /.idea
